@@ -1,0 +1,43 @@
+------------Historico------------
+
+	Turno 1
+	Jogador 1: a
+	Tabuleiro: 
+			    1  2  3 
+			 1  V  _  _ 
+			 2  _  _  _ 
+			 3  _  _  _ 
+
+	Turno 2
+	Jogador 2: Computador
+	Tabuleiro: 
+			    1  2  3 
+			 1  V  _  _ 
+			 2  _  o  _ 
+			 3  _  _  _ 
+
+	Turno 3
+	Jogador 1: a
+	Tabuleiro: 
+			    1  2  3 
+			 1  V  V  _ 
+			 2  _  o  _ 
+			 3  _  _  _ 
+
+	Turno 4
+	Jogador 2: Computador
+	Tabuleiro: 
+			    1  2  3 
+			 1  V  V  _ 
+			 2  V  o  _ 
+			 3  _  _  _ 
+
+	Turno 5
+	Jogador: a
+	Tabuleiro: 
+			    1  2  3 
+			 0  V  V  V 
+			 1  V  o  _ 
+			 2  _  _  _ 
+
+	Vencedor: a!

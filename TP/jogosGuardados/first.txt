@@ -1,0 +1,84 @@
+------------Historico------------
+
+	Turno 1
+	Jogador 1: a
+	Tabuleiro: 
+			    1  2  3 
+			 0  _  V  _ 
+			 1  _  _  _ 
+			 2  _  _  _ 
+			 3  _  _  _ 
+
+	Turno 2
+	Jogador 2: v
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  _  V  _  _ 
+			 1  _  _  _  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 3
+	Jogador 1: a
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  V  _  _ 
+			 1  _  _  _  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 4
+	Jogador 2: v
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  V  _  _ 
+			 1  _  _  _  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 5
+	Jogador 1: a
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  Y  _  _ 
+			 1  _  _  _  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 6
+	Jogador 2: v
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  Y  _  _ 
+			 1  V  _  _  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 7
+	Jogador 1: a
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  Y  _  _ 
+			 1  V  V  _  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 8
+	Jogador 2: v
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  Y  _  _ 
+			 1  V  V  V  _ 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Turno 9
+	Jogador: a
+	Tabuleiro: 
+			    1  2  3  4 
+			 0  o  Y  _  _ 
+			 1  V  V  V  V 
+			 2  _  _  _  _ 
+			 3  _  _  _  _ 
+
+	Vencedor: a!
